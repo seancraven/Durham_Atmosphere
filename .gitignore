@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 spectral_line_db.db/
+scratchbook.ipynb
