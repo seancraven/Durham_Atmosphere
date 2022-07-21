@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Absorbtion Coefficients",
+            "database": "${workspaceFolder:Durham_Atmosphere}/optical_depth.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
